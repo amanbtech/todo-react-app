@@ -1,28 +1,37 @@
+# React Todo App
 
+A modern and responsive Todo List application built using React.js to help users manage daily tasks efficiently.
 
-# Todo App 
+## Live Demo
 
-A minimal yet fully functional Todo List application built with React.js.
+🔗 https://amanbtech.github.io/todo-react-app/
 
-#  Live Demo
+## Features
 
-🔗 [Click to view](https://amanbtech.github.io/todo-react-app/)
+- Add new tasks
+- Delete existing tasks
+- Mark tasks as completed
+- Real-time UI updates
+- Responsive design for mobile and desktop
 
-# Features
+## Tech Stack
 
-- Add, delete, and manage tasks
-- Real-time task updates
-- Simple and clean UI
-- Fully responsive on all devices
-
-# Tech Stack
-
-- HTML5, CSS3
-- JavaScript
 - React.js
-- Git & GitHub
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git
+- GitHub
 
-# Run Locally
+## Project Structure
+
+todo-react-app/
+├── src/
+├── public/
+├── package.json
+└── README.md
+
+## Run Locally
 
 ```bash
 git clone https://github.com/amanbtech/todo-react-app.git
